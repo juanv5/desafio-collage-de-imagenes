@@ -2,13 +2,13 @@
 
 ## Instrucciones
 
-Ingresar a la terminal y usar los comandos:
+- Ingresar a la terminal y usar los comandos:
 
-`npm init`
-`npm install express --save`
-`npm install --save express-fileupload`
-`npm i --save body-parser`
-`git init`
+-`npm init`
+-`npm install express --save`
+-`npm install --save express-fileupload`
+-`npm i --save body-parser`
+-`git init`
 
 - Abrir el servidor en [http://localhost:3000] para cargar las imagenes
 - Abrir ruta [http://localhost:3000/collage] para ver y eliminar imágenes del collage
@@ -36,5 +36,5 @@ del collage.
 
 ## Integrantes
 
-- [Maria Jose Ramirez](http://github.com/mjramirez1)
-- [Juan Vega Díaz](http://github.com/juanv5)
+- Maria Jose Ramirez [http://github.com/mjramirez1]
+- Juan Vega Díaz [http://github.com/juanv5]
