@@ -2,7 +2,7 @@
 
 ## Instrucciones
 
-- Ingresar a la terminal y usar los comandos:
+Ingresar a la terminal y usar los comandos:
 
 - `npm init`
 - `npm install express --save`
@@ -10,8 +10,8 @@
 - `npm i --save body-parser`
 - `git init`
 
-- Abrir el servidor en [http://localhost:3000] para cargar las imagenes
-- Abrir ruta [http://localhost:3000/collage] para ver y eliminar imágenes del collage
+Abrir el servidor en [http://localhost:3000] para cargar las imagenes
+Abrir ruta [http://localhost:3000/collage] para ver y eliminar imágenes del collage
 
 ## Requerimientos
 
