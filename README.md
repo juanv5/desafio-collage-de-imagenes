@@ -35,7 +35,7 @@ del collage.
 3. express-fileupload: 1.4.0
 4. nodemon: 2.0.16
 
-## Integrantes
+### Integrantes
 
-- Maria Jose Ramirez (http://github.com/mjramirez1)
+- Maria Jose Ramirez [http://github.com/mjramirez1]
 - Juan Vega Díaz [http://github.com/juanv5]
