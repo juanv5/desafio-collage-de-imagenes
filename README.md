@@ -37,5 +37,5 @@ del collage.
 
 ## Integrantes
 
-- Maria Jose Ramirez [http://github.com/mjramirez1]
+- Maria Jose Ramirez (http://github.com/mjramirez1)
 - Juan Vega Díaz [http://github.com/juanv5]
