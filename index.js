@@ -43,7 +43,7 @@ app.post('/imagen', (req, res) => {
     const { target_file } = req.files;
     const { posicion } = req.body;
     target_file.mv(`${__dirname}/public/imgs/imagen-${posicion}.jpg`, (err) => {
-        res.send("Archivo cargado con exito")
+        res.redirect("/collage")
 
     });
 });
