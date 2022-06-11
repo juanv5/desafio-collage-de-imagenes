@@ -12,7 +12,7 @@ Ingresar a la terminal y usar los comandos:
 
 Abrir el servidor en (http://localhost:3000) para cargar las imagenes
 
-Abrir ruta [http://localhost:3000/collage] para ver y eliminar imágenes del collage
+Abrir ruta (http://localhost:3000/collage) para ver y eliminar imágenes del collage
 
 ## Requerimientos
 
